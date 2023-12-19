@@ -21,3 +21,8 @@ a {
 .bottom-margin {
     margin-bottom: 20px;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+}
